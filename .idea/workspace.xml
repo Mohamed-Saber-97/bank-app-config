@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f87e5243-25fe-426f-9544-1ed4ae13a10d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configserver/ConfigserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/configserver/ConfigserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/cards-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/cards-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/cards.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/loans-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/loans-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/loans.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/configserver/ConfigserverApplication.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mohamed-Saber-97"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mohamed-Saber-97/bank-app-config",
+    "accountId": "d98bde4e-dc3a-4ef2-a894-168ef16e9b45"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2oqpKLPREm6tOXcvh9s7AHs8FjW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Mohamed/Real Projects/config server/configserver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configserver.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f87e5243-25fe-426f-9544-1ed4ae13a10d" name="Changes" comment="" />
+      <created>1731606894173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731606894173</updated>
+      <workItem from="1731606895220" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

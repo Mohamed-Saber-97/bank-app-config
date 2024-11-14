@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: "configserver"
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        git:
+          uri: "https://github.com/Mohamed-Saber-97/bank-app-config"
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          
+server:
+  port: 8071
