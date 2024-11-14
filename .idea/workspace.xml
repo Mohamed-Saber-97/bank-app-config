@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f87e5243-25fe-426f-9544-1ed4ae13a10d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configserver/ConfigserverApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/accounts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/cards.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/loans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/configserver/ConfigserverApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/accounts.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/cards-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/cards-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/cards.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/loans-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/loans-prod.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/loans.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/configserver/ConfigserverApplication.class" beforeDir="false" />
-    </list>
+    <list default="true" id="f87e5243-25fe-426f-9544-1ed4ae13a10d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +44,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Mohamed/Real Projects/config server/configserver",
@@ -109,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731606894173</updated>
-      <workItem from="1731606895220" duration="425000" />
+      <workItem from="1731606895220" duration="615000" />
     </task>
     <servers />
   </component>
