@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Banking Application Cards default APIs "
+  message: "Welcome to Banking Application Cards Docker Default APIs "
   contactDetails:
     name: "Mohamed Saber - Developer"
     email: "mohamed.saber.mohamed.dev@gmail.com"
