@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Banking Application Cards related to production Cards APIs "
+  message: "Welcome to Banking Application Cards production APIs "
   contactDetails:
     name: "Mohamed Saber - Developer"
     email: "mohamed.saber.mohamed.dev@gmail.com"
